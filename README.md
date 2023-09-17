@@ -3,7 +3,8 @@
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This project try to build up a customer serivce chatbot for taiwan mobile company.
+I use streamlit as my chat interface and openai api as backend.
 
 ## Demo App
 
